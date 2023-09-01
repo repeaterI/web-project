@@ -1,2 +1,2 @@
-# web-project.github.io
+# web-project
 a web wiki (propbably)
